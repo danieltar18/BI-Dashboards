@@ -6,14 +6,14 @@ Here, you'll find interactive dashboards created using **Looker Studio, Tableau,
 ---
 ## Tableau
 
-🔷 ..
+🔷
 🔗 [View Dashboard](https://public.tableau.com/your-dashboard-link)  
 📄 
 
 
 ## Power BI
 
-🔷 ..  
+🔷
 🔗 [View Dashboard](https://app.powerbi.com/your-dashboard-link)  
 📄
 
