@@ -6,7 +6,7 @@ Here, you'll find interactive dashboards created using **Looker Studio, Tableau,
 ---
 ## Tableau
 
-🔷 ... Dashboard
+🔷 ..
 🔗 [View Dashboard](https://public.tableau.com/your-dashboard-link)  
 📄 
 
