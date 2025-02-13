@@ -19,7 +19,7 @@ Here, you'll find interactive dashboards created using **Looker Studio, Tableau,
 
 ## Looker Studio
 
-🔷   
-🔗 [View Dashboard](https://lookerstudio.google.com/your-dashboard-link)  
+🔷 Crypto Market Analysis
+🔗 [View Dashboard](https://lookerstudio.google.com/reporting/7df8f109-6f75-47ce-a48d-d4a8aa989d5d)
 📄 
 
