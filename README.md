@@ -23,7 +23,7 @@ Here, you'll find interactive dashboards created using **Looker Studio, Tableau,
 📄   
 
 <p align="center">
-  <img src="images/lookerstudio/crypto_market_analysis_lookerstudio" alt="Crypto Market Analysis">
+  <img src="images/lookerstudio/crypto_market_analysis_lookerstudio.png" alt="Crypto Market Analysis">
 </p>
 
 
