@@ -32,8 +32,11 @@ This project showcases a **Crypto Market Analysis Dashboard** built using **Look
 - ⚙️ **API Integration**: Utilizes CoinGecko API endpoints like **global**, **trending**, and **coins/ohlc**.  
 
 <p align="center">
-  <img src="images/lookerstudio/crypto_market_analysis_lookerstudio.png" alt="Crypto Market Analysis">
+  <a href="https://lookerstudio.google.com/u/0/reporting/7df8f109-6f75-47ce-a48d-d4a8aa989d5d/page/sDkrE" target="_blank">
+    <img src="images/lookerstudio/crypto_market_analysis_lookerstudio.png" alt="Crypto Market Analysis">
+  </a>
 </p>
+
 
 #### 🔑 **Tech Stack**
 
