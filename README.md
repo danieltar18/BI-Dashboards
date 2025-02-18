@@ -26,7 +26,7 @@ Here, you'll find interactive dashboards created using **Looker Studio, Tableau,
   <img src="images/lookerstudio/crypto_market_analysis_lookerstudio.png" alt="Crypto Market Analysis">
 </p>
 
-CoinGecko API Script
+CoinGecko API Script  
 🤖 [View the Apps Script JS File](./scripts/apps_scripts/coingecko.js)
 
 🔗 [View Dashboard](https://lookerstudio.google.com/u/0/reporting/7df8f109-6f75-47ce-a48d-d4a8aa989d5d/page/sDkrE)
