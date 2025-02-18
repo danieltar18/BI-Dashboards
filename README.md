@@ -1,7 +1,7 @@
 # 📊 BI Dashboards
 
 Welcome to my **Business Intelligence & Data Visualization Portfolio**!  
-Here, you'll find interactive dashboards created using **Looker Studio, Tableau, and Power BI**, showcasing data-driven insights.
+Here, you'll find interactive dashboards created using **Looker Studio, Tableau, Power BI and Dune**, showcasing data-driven insights.
 
 ---
 ## Tableau
