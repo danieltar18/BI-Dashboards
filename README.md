@@ -52,5 +52,15 @@ This project showcases a **Crypto Market Analysis Dashboard** built using **Look
 
 ## Dune
 
+
+
+
+
+🔗 [View Dashboard](https://dune.com/flamenco18/top-solana-kols)
+
+
+
+
+
 ---
 
