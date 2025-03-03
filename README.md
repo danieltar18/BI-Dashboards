@@ -56,8 +56,9 @@ This project showcases a **Crypto Market Analysis Dashboard** built using **Look
 
 This project features a **Top Solana Memecoin Traders Dashboard** built using **Dune Analytics**. It tracks **Key Opinion Leaders (KOLs)** in the Solana memecoin ecosystem, providing insights into their trading activity, investments, and top-performing tokens.
 
-  *Static list of KOLs (leaderboard - on February 25, 2025)*
-  *https://kolscan.io/leaderboard*
+*Static list of KOLs (leaderboard - on February 25, 2025)*
+
+*https://kolscan.io/leaderboard*
 
 #### 🚀 **Key Features**
 
