@@ -1,5 +1,3 @@
-# [In Progress]
-
 # 📊 BI Dashboards
 
 Welcome to my **Business Intelligence & Data Visualization Portfolio**!  
@@ -8,12 +6,38 @@ Here, you'll find interactive dashboards created using **Looker Studio, Tableau,
 ---
 ## Tableau
 
-🔷  
-🔗 [View Dashboard](https://public.tableau.com/your-dashboard-link)  
-📄 
+# 🔷 First 24 Hours of Crypto FOMO Dashboard 📊
+
+This dashboard gives immediate insights into cryptocurrency market behaviors following major "Fear of Missing Out (FOMO)" events triggered by influential global figures and entities.
+
+## 🚀 Key Features
+
+- **📅 FOMO Event Selector**
+  - Interactive selection of influential events affecting the cryptocurrency markets, including announcements from prominent political leaders, industry figures, and influential organizations.
+- **📊 Top Cryptocurrencies Overview**
+  - Detailed analysis featuring price charts for a 24-hour period, capturing market highs, lows, and trading volumes for the top cryptocurrencies.
+- **⚙️ Real-Time Market Trends**
+  - Visualizes immediate price reactions and historical trend data, clearly highlighting market changes due to specific events.
+- **📈 Expanded Chart View**
+  - Expand the chart to see the highlights of the FOMO event.
+
+<p align="center">
+  <a href="https://public.tableau.com/views/First24HourofFOMOinCrypto/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="images/tableau/fomo_dashboard.png" alt="First 24 Hour of FOMO in Crypto">
+  </a>
+</p>
+
+#### 🔑 **Tech Stack**
+
+- **Tableau Public** (Data Visualization)  
+- **Binance API** (klines, 15 min data)
+
+🤖 [View the Apps Script JS File](./scripts/python_scripts/fomo_binance.py)  
+🔗 [View Dashboard](https://public.tableau.com/views/First24HourofFOMOinCrypto/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Power BI
+[ IN PROGRESS ]
 
 🔷  
 🔗 [View Dashboard](https://app.powerbi.com/your-dashboard-link)  
