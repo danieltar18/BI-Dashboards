@@ -32,7 +32,7 @@ This dashboard gives immediate insights into cryptocurrency market behaviors fol
 - **Tableau Public** (Data Visualization)  
 - **Binance API** (klines, 15 min data)
 
-🤖 [View the Apps Script JS File](./scripts/python_scripts/fomo_binance.py)  
+🤖 [View the Python script](./scripts/python_scripts/fomo_binance.py)  
 🔗 [View Dashboard](https://public.tableau.com/views/First24HourofFOMOinCrypto/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
