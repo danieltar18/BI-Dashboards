@@ -6,11 +6,11 @@ Here, you'll find interactive dashboards created using **Looker Studio, Tableau,
 ---
 ## Tableau
 
-# 🔷 First 24 Hours of Crypto FOMO Dashboard 📊
+#### 🔷 First 24 Hours of Crypto FOMO Dashboard 📊
 
 This dashboard gives immediate insights into cryptocurrency market behaviors following major "Fear of Missing Out (FOMO)" events triggered by influential global figures and entities.
 
-## 🚀 Key Features
+#### 🚀 Key Features
 
 - **📅 FOMO Event Selector**
   - Interactive selection of influential events affecting the cryptocurrency markets, including announcements from prominent political leaders, industry figures, and influential organizations.
