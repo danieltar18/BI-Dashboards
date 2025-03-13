@@ -52,15 +52,33 @@ This project showcases a **Crypto Market Analysis Dashboard** built using **Look
 
 ## Dune
 
+### 🔷 Top Solana Memecoin Traders 📊
 
+This project features a **Top Solana Memecoin Traders Dashboard** built using **Dune Analytics**. It tracks **Key Opinion Leaders (KOLs)** in the Solana memecoin ecosystem, providing insights into their trading activity, investments, and top-performing tokens.
 
+*Static list of KOLs (leaderboard - on February 25, 2025)*
 
+*https://kolscan.io/leaderboard*
 
+#### 🚀 **Key Features**
+
+- 📊 **Leaderboard & PnL Tracking**: Displays the top traders based on profits and returns.  
+- 🔍 **KOL Wallet Analysis**: Identifies top wallets engaged in high-volume memecoin trading.  
+- 💰 **Top Tokens & Pairs**: Highlights the most-traded and most-profitable memecoins.  
+- ⏳ **Trading Hours Analysis**: Visualizes hourly transaction trends and volume spikes.  
+- 🔗 **Yesterday Data**: Powered by Dune Analytics for up-to-date tracking of Solana DEX trades.  
+
+<p align="center">
+  <a href="https://dune.com/flamenco18/top-solana-kols" target="_blank">
+    <img src="images/dune/top_kols_dashboard.png" alt="Top KOLs Dashboard">
+  </a>
+</p>
+
+🤖 [View DuneSQL files](./scripts/dune_sqls)  
 🔗 [View Dashboard](https://dune.com/flamenco18/top-solana-kols)
 
 
-
-
+💡 _Always DYOR before making financial decisions!_
 
 ---
 
