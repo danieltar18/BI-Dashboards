@@ -39,6 +39,31 @@ This dashboard gives immediate insights into cryptocurrency market behaviors fol
 ## Power BI
 
 
+This Power BI dashboard provides a snapshot technical analysis of major cryptocurrencies. It gives traders and analysts immediate insight into market momentum, trends, and volatility—especially around rapid market movements triggered by news or global events.
+
+#### 🚀 Key Features
+
+### ⏱ Timeframe Selector
+Easily switch between key intervals like **5m, 15m, 1h, 1d, 1w,** and **1mo** to analyze short-term or long-term price action.
+
+### 🪙 Cryptocurrency Picker
+Choose from top coins including **BTC, ETH, XRP, BNB, SOL, DOGE, ADA, TRX, SUI, LINK** for on-demand technical evaluations.
+
+### 📈 Candlestick Chart
+Visual representation of asset price changes over time, highlighting open, high, low, and close (OHLC) movements to support trading decisions.
+
+### 📌 Technical Indicator Summary
+Shows real-time values for:
+- **Oscillators**: RSI (14), Momentum (10), MACD (12, 26), Stochastic %K (14, 3), CCI (20), Williams %R (14)
+- **Moving Averages**: SMA and EMA across 10, 20, and 50 periods
+
+### 🧭 Sentiment Gauge
+A bold summary dial condenses all indicators into a simple, clear **Buy / Sell / Neutral** rating—ideal for quick decisions.
+
+### 🔎 Expandable Chart Area
+Focus view on a single coin’s reaction to an event or zoom into specific market behavior over time.
+
+
 <p align="center">
     <img src="images/power_bi/technical_analysis_screenshot.png" alt="Technical Analysis">
   </a>
@@ -46,7 +71,7 @@ This dashboard gives immediate insights into cryptocurrency market behaviors fol
 
 
 🤖 [View the Java script](./scripts/apps_scripts/powerbi_data.js)  
-🔗 [View the Power BI File](./scripts/files/Technical_Analysis.pbix)  
+🔗 [View the Power BI File](./files/Technical_Analysis.pbix)  
 
 ## Looker Studio
 
