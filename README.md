@@ -37,11 +37,16 @@ This dashboard gives immediate insights into cryptocurrency market behaviors fol
 
 
 ## Power BI
-[ IN PROGRESS ]
 
-🔷  
-🔗 [View Dashboard](https://app.powerbi.com/your-dashboard-link)  
-📄
+
+<p align="center">
+    <img src="images/power_bi/technical_analysis_screenshot.png" alt="Technical Analysis">
+  </a>
+</p>
+
+
+🤖 [View the Java script](./scripts/apps_scripts/powerbi_data.js)  
+🔗 [View the Power BI File](./scripts/files/Technical_Analysis.pbix)  
 
 ## Looker Studio
 
